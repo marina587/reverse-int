@@ -1,3 +1,4 @@
 module.exports = function reverse (n) {
- console.log(n.reverse()); 
+ let num = n.toString();
+    console.log(num.reverse()); 
 }
